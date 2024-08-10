@@ -6,7 +6,7 @@ var w = c.width = window.innerWidth,
 		hh = h / 2,
 		
 		opts = {
-			strings: [ 'HAPPY', 'BIRTHDAY', 'DANNA', '¡Que', 'todos', 'tus', 'deseos', 'se', 'hagan', 'realidad', 'en', 'este', 'día', 'especial!', 'Que', 'la', 'felicidad', 'te', 'acompañe', 'siempre.'],
+			strings: [ 'HAPPY', 'BIRTHDAY', 'DANNA', '¡Que', 'todos', 'tus', 'deseos', 'se', 'hagan', 'realidad', 'en', 'este', 'día', 'especial!'],
 			charSize: 30,
 			charSpacing: 35,
 			lineHeight: 40,
